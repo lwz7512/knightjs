@@ -1,3 +1,6 @@
+<img style="width:100%;height:auto" src="./screenshot.png">
+
+
 # Knight.JS
 
 from @Rainbow Coding Lab
